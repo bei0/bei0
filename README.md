@@ -1,6 +1,1 @@
-- 🔭 Python Web 开发工程师
-- 🌱 正在学习所有关于计算机的知识
-- 🤔 我想需要学习的资源
-- 💬 一个白到不能再白的程序员
-- 📫 Vx联系方式：XB998O (!注意：是“欧”不是“零”)
-- ⚡ 我有女朋友！！！！！！
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=WangDanPeng&show_icons=true">
