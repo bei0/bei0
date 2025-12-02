@@ -6,4 +6,3 @@
 - 🌱 Python开发者--Web 爬虫
 - 🌱 Liunx使用者--Centos Ubuntu Kali
 - 🌱 黑苹果爱好者
-- 🌱 读书爱好者--金瓶梅
